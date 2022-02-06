@@ -34,3 +34,15 @@ The real-estate advisor helps people to connect with each other for buying and s
 - Can modify the added details of properties.
 - Delete the record of properties, incase the property is sold out.
 
+# 4W's and 1'H
+## Who:
+- Everyone who has a desire to buy a property or a need to sell their property can use it.
+## What:
+- A utility which can connect buyers and sellers where one can buy or sell their asserts or properties.
+## When:
+- Time is not a barrier, so it can be used at any point of time.
+## Where:
+- As it is globalised, it can be used anywhere and all the asserts can viewed which in and out of range.
+## How:
+- Buyers can view all the properties or asserts available or can also view by the type of property, Whereas sellers need to make their property available by adding specifications and can also modify them. If the property is sold out, seller can remove them.
+
