@@ -46,6 +46,7 @@ The real-estate advisor helps people to connect with each other for buying and s
 ## How:
 - Buyers can view all the properties or asserts available or can also view by the type of property, Whereas sellers need to make their property available by adding specifications and can also modify them. If the property is sold out, seller can remove them.
 
+## SWOT Analyasis
 
 ![swot_analysis](https://user-images.githubusercontent.com/98813874/153200528-1f4b6a89-9502-4e3b-94dd-22034025f124.jpg)
 
